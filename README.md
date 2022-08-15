@@ -11,6 +11,15 @@ The Banner Manager allows you to insert notification alerts, images and RAW HTML
 - WHMCS 7+
 - PHP 7.4+
 
+## Installation
+Installing this addon module is very straight forward and requires no code changes. Just follow these steps to get up and running:
+
+* Download this Github Repo and unzip it, direct download: https://github.com/hostmedia/whmcs-bannermanager-encoded/archive/refs/heads/main.zip
+* Depending on your WHMCS/server installation use the Ioncube version supported, you can find which version you are using by checking your WHMCS Admin->Utilities->System->PHP Info (https://domain.com/whmcs-directory/admin/systemphpinfo.php)
+* Upload the contents of the Ioncube version folder to your WHMCS root directory, this will be two folders (assets & modules).
+* Once uploaded, navigate to WHMCS admin, addons section to activate the module, when activated, select the 'Configure' option for the module and enter your license key and make sure to select the user groups you wish to have access
+* Now everything has been setup, you can click on Addons in the top navigation bar to see the "BannerManager" option. If you do not see this option, double check your user group configuration on the addon module.
+
 ## License Key
 To purchase a license key please order at: https://hostmedia.uk/client/store/lab-products/whmcs-banner-manager
 
