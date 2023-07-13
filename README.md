@@ -28,10 +28,10 @@ Price: £4.99 per year (ex VAT)
 ## Ioncube Loaders
 We have provided the WHMCS Banner Manager software available with two Ioncube loaders (11 & 12).
 
-| Ioncube Version  | PHP Capability |
-| ------------- | ------------- |
-| 11  | 5.3 - 7.4  |
-| 12  | 5.3 - 8.1  |
+| Ioncube Version  | PHP Compatibility | Module Compatibility |
+| ------------- | ------------- | ------------- |
+| 11  | 5.3 - 7.4  | 7.4  |
+| 12  | 5.3 - 8.1  | 7.4 - 8.1  |
 
 Download Loader: https://www.ioncube.com/loaders.php
 
