@@ -1,15 +1,28 @@
 # WHMCS Banner Manager
 The Banner Manager allows you to insert notification alerts, images and RAW HTML into 4 areas of WHMCS for your admins and clients to view.
 
-**Pages:**
-* Client Area Homepage
-* Admin Homepage
-* Admin Area View Ticket Page
-* Admin Area Client Summary Page
+## Supported Page Locations
+
+**Client Area**
+* Header
+* Footer
+* Homepage
+* Product Details
+* Domain Details
+* Checkout
+* View Cart
+
+**Admin Area**
+* Header
+* Footer
+* Homepage
+* Invoice Controls
+* View Ticket Page
+* Client Summary Page
 
 ## Requirements
-- WHMCS 7+
-- PHP 7.4+
+- WHMCS 7, 8+
+- PHP 7.4, 8.1+
 
 ## Installation
 Installing this addon module is very straight forward and requires no code changes. Just follow these steps to get up and running:
@@ -28,7 +41,7 @@ Price: £4.99 per year (ex VAT)
 ## Ioncube Loaders
 We have provided the WHMCS Banner Manager software available with two Ioncube loaders (11 & 12).
 
-| Ioncube Version  | PHP Compatibility | Module Compatibility |
+| Ioncube Version  | PHP Compatibility | Module PHP Compatibility |
 | ------------- | ------------- | ------------- |
 | 11  | 5.3 - 7.4  | 7.4  |
 | 12  | 5.3 - 8.1  | 7.4 - 8.1  |
