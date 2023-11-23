@@ -33,6 +33,9 @@ Installing this addon module is very straight forward and requires no code chang
 * Once uploaded, navigate to WHMCS admin, addons section to activate the module, when activated, select the 'Configure' option for the module and enter your license key and make sure to select the user groups you wish to have access
 * Now everything has been setup, you can click on Addons in the top navigation bar to see the "BannerManager" option. If you do not see this option, double check your user group configuration on the addon module.
 
+## Upgrade
+To upgrade the Banner Manager, follow the installation steps to overwrite all the files in your current install. No scripts are required to be ran to upgrade to the latest version of the Banner Manager.
+
 ## License Key
 To purchase a license key please order at: https://hostmedia.uk/client/store/lab-products/whmcs-banner-manager
 
