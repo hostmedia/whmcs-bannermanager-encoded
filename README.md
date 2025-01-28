@@ -42,12 +42,13 @@ To purchase a license key please order at: https://hostmedia.uk/client/store/lab
 Price: £4.99 per year (ex VAT)
 
 ## Ioncube Loaders
-We have provided the WHMCS Banner Manager software available with two Ioncube loaders (11 & 12).
+We have provided the WHMCS Banner Manager software available with two IonCube Loaders (12, 13 and 14).
 
 | Ioncube Version  | PHP Compatibility | Module PHP Compatibility |
 | ------------- | ------------- | ------------- |
-| 11  | 5.3 - 7.4  | 7.4  |
 | 12  | 5.3 - 8.1  | 7.4 - 8.1  |
+| 13  | 5.3 - 8.2  | 7.4 - 8.2  |
+| 14  | 5.3 - 8.3  | 7.4 - 8.3  |
 
 Download Loader: https://www.ioncube.com/loaders.php
 
