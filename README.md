@@ -34,8 +34,14 @@ Installing this addon module is very straight forward and requires no code chang
 * Now everything has been setup, you can click on Addons in the top navigation bar to see the "BannerManager" option. If you do not see this option, double check your user group configuration on the addon module.
 
 ## Upgrade
-To upgrade the Banner Manager, follow the installation steps to overwrite all the files in your current install. No scripts are required to be ran to upgrade to the latest version of the Banner Manager.
+Before uploading the a new version of the Banner Manager, please make sure to take a backup of your WHMCS database.
 
+Upgrading from 1.1.x to 1.2.x
+* Backup your WHMCS database as version 1.2.x has database changes that could impact your current module installation.
+* Upload the files from the latest release to your WHMCS install directory and overwrite the existing install.
+* Navigate to WHMCS admin, addons section and next to this active module, click on 'Configure'.
+* There are 2 new fields to complete; 'Upload Directory' which needs to be your absolute path to store uploaded images, we recommend a path outside of your web root. Secondly "Max Image Dimension" for uploads, this is to help lower image sizes if you wish, we recommennd keeping to the default of '1024'.
+    
 ## License Key
 To purchase a license key please order at: https://hostmedia.uk/client/store/lab-products/whmcs-banner-manager
 
