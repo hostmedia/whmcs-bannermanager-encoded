@@ -1,2 +1,5 @@
 *.iep
 modules/addons/bannermanager/.DS_Store
+modules/.DS_Store
+modules/addons/.DS_Store
+.DS_Store
