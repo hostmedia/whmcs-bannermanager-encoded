@@ -6,7 +6,7 @@ ADDED
 * Option to archive banners with the ability to restore or permanently delete
 
 IMPROVED
-* Admin UI improvements
+* Further admin UI improvements
 
 ## v1.3.1 Released October 14th, 2025
 
