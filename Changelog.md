@@ -1,5 +1,15 @@
 # WHMCS Banner Manager Changelog
 
+## v1.4.0 Released October 26th, 2025
+
+ADDED
+* A/B testing capability to allow users to test different banners
+* Alert and image banner tracking with display and click count
+
+IMPROVED
+* Drag and drop feature within the admin view for changing banners display order
+* Further admin UI improvements
+
 ## v1.3.2 Released October 16th, 2025
 
 ADDED

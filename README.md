@@ -48,8 +48,8 @@ Upgrading from <1.2.x to 1.3.1
 * There are no database changes but as always we recommend backing up your data before upgrading.
 * Version 1.3.x and above will now require PHP 8.1 as the minimum supported PHP version.
 
-Upgrading from <1.3.1 to 1.3.2
-* Backup your WHMCS database as version 1.3.2 has database changes that could impact your current module installation.
+Upgrading from <1.3.1 to 1.4.0
+* Backup your WHMCS database as version 1.3.2 onwards has database changes that could impact your current module installation.
 * Follow the standard documented process for upgrading
 
 ## License Key
