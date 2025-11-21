@@ -1,5 +1,5 @@
 # WHMCS Banner Manager
-The Banner Manager allows you to insert notification alerts, images and RAW HTML into your WHMCS install for your admin and client areas to view.
+The Banner Manager allows you to insert notification alerts, images, WYSIWYG generated content and RAW HTML into your WHMCS pages for your admins and clients to view.
 
 ## Supported Page Locations
 
@@ -25,7 +25,8 @@ The Banner Manager allows you to insert notification alerts, images and RAW HTML
 
 ## Requirements
 - WHMCS 7, 8+
-- PHP 8.1+
+- PHP Recommended 8.1+
+- Ioncube PHP Encoded Support 7.4+
 
 ## Installation
 Installing this addon module is very straight forward and requires no code changes. Just follow these steps to get up and running:
@@ -51,6 +52,10 @@ Upgrading from <1.2.x to 1.3.1
 Upgrading from <1.3.1 to 1.4.0
 * Backup your WHMCS database as version 1.3.2 onwards has database changes that could impact your current module installation.
 * Follow the standard documented process for upgrading
+
+Upgrading from 1.4.0 to 1.4.1
+* There are no database changes but as always we recommend backing up your data before upgrading.
+* Version 1.4.1 and above now recommends PHP 8.1 as the minimum supported PHP version, but encoding will support PHP 7.4.
 
 ## License Key
 To purchase a license key please order at: https://portal.hostmedia.uk/store/software/whmcs-banner-manager
