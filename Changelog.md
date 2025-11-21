@@ -1,5 +1,14 @@
 # WHMCS Banner Manager Changelog
 
+## v1.4.1 Released November 21st, 2025
+
+ADDED
+* WYSIWYG editor for new content type
+
+IMPROVED
+* PHP encoding support for PHP 7.4 to support legacy services better (PHP 8.1+ Recommended)
+* Minor admin UI tweaks
+
 ## v1.4.0 Released October 26th, 2025
 
 ADDED
