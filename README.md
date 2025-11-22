@@ -53,7 +53,7 @@ Upgrading from <1.3.1 to 1.4.0
 * Backup your WHMCS database as version 1.3.2 onwards has database changes that could impact your current module installation.
 * Follow the standard documented process for upgrading
 
-Upgrading from 1.4.0 to 1.4.1
+Upgrading from 1.4.0 to 1.4.2
 * There are no database changes but as always we recommend backing up your data before upgrading.
 * Version 1.4.1 and above now recommends PHP 8.1 as the minimum supported PHP version, but encoding will support PHP 7.4.
 
