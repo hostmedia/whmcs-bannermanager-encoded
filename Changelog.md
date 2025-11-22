@@ -1,5 +1,10 @@
 # WHMCS Banner Manager Changelog
 
+## v1.4.2 Released November 22nd, 2025
+
+FIXED:
+* Resolved an edge case with duplicate function naming with other addon modules
+
 ## v1.4.1 Released November 21st, 2025
 
 ADDED
