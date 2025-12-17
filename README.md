@@ -57,6 +57,9 @@ Upgrading from 1.4.0 to 1.4.2
 * There are no database changes but as always we recommend backing up your data before upgrading.
 * Version 1.4.1 and above now recommends PHP 8.1 as the minimum supported PHP version, but encoding will support PHP 7.4.
 
+Upgrading from 1.4.2 to 1.4.3
+* Upgrading will insert any missing data eleemnts for new responsive image support
+
 ## License Key
 To purchase a license key please order at: https://portal.hostmedia.uk/store/software/whmcs-banner-manager
 
