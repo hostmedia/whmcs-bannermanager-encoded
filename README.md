@@ -60,6 +60,9 @@ Upgrading from 1.4.0 to 1.4.2
 Upgrading from 1.4.2 to 1.4.3
 * Upgrading will insert any missing data elements for new responsive image support
 
+Upgrading from 1.4.3 to 1.4.4
+* Upgrading will create a new databse table for the required validation enhancement
+
 ## License Key
 To purchase a license key please order at: https://portal.hostmedia.uk/store/software/whmcs-banner-manager
 
