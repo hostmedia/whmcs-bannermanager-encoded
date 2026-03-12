@@ -1,8 +1,19 @@
 # WHMCS Banner Manager Changelog
 
+## v1.4.3 Released Demcember 17th, 2025
+
+ADDED
+* Support to handle responsive image banner options
+* Screen resolution controls for banners allow for mobile or desktop displaying only
+* Custom CSS classes can now be added to banners
+* Option to disable the default block and margin styling 
+
+IMPROVED
+* Minor admin UX tweaks on create and update banners to cater for new 1.4.3 banner options
+
 ## v1.4.2 Released November 22nd, 2025
 
-FIXED:
+FIXED
 * Resolved an edge case with duplicate function naming with other addon modules
 
 ## v1.4.1 Released November 21st, 2025
