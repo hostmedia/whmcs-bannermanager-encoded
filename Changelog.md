@@ -1,5 +1,10 @@
 # WHMCS Banner Manager Changelog
 
+## v1.4.4 Released March 12th, 2026
+
+IMPROVED
+* Change how license validation calls are made with the benefit of added performance
+
 ## v1.4.3 Released Demcember 17th, 2025
 
 ADDED
