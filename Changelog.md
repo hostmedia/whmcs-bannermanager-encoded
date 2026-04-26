@@ -1,5 +1,10 @@
 # WHMCS Banner Manager Changelog
 
+## v1.4.5 Released April 26th, 2026
+
+ADDED
+* SEO update adds alt text, title, loading and decoding attributes to image banners
+
 ## v1.4.4 Released March 12th, 2026
 
 IMPROVED
